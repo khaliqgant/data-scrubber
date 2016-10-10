@@ -1,7 +1,7 @@
 Data Scrubber
 =============
-> Collection of scripts to pull remote data.
-> Google Sheet of target datasets can be found [here] (https://docs.google.com/spreadsheets/d/1a3Immizb2NfMQt1bjieMG3W0sLo6PV8ZDPYmzmRG5dQ/edit?usp=sharing)
+Collection of scripts to pull remote data.  
+Google Sheet of target datasets can be found [here] (https://docs.google.com/spreadsheets/d/1a3Immizb2NfMQt1bjieMG3W0sLo6PV8ZDPYmzmRG5dQ/edit?usp=sharing).
 
 Folder: Python
 ----------------
